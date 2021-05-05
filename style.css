@@ -1,0 +1,22 @@
+.menu{
+    display:flex;
+    justify-content: space-between;
+}
+.Grid{
+    display:flex; 
+    flex-wrap: wrap;
+
+}
+
+
+.Grid img{
+    border:2px solid black;
+    border-radius: 50px;
+}
+.Origami{
+    display:flex;
+    border-radius:20px ;
+    background-color: white;
+    width:310px;
+    font-family: fantasy;
+}
